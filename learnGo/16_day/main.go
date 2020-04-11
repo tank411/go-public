@@ -1,12 +1,3 @@
-/*
- * @Descripttion: 模块信息介绍
- * @Company: HIK
- * @version: 1.0.0
- * @Author: TK
- * @Date: 2019-12-06 11:34:16
- * @LastEditors  : TK
- * @LastEditTime : 2020-01-08 11:49:27
- */
 package main
 
 import (
